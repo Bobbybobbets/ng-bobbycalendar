@@ -9,14 +9,17 @@ module.exports = function ( karma ) {
      * This is the list of file patterns to load into the browser during testing.
      */
     files: [
+      'vendor/jquery/jquery.js',
       'vendor/angular/angular.js',
       'vendor/angular-bootstrap/ui-bootstrap-tpls.min.js',
       'vendor/placeholders/angular-placeholders-0.0.1-SNAPSHOT.min.js',
       'vendor/angular-ui-router/release/angular-ui-router.js',
       'vendor/angular-ui-utils/modules/route/route.js',
+      'vendor/moment/min/moment.min.js',
+      'vendor/angular-mocks/angular-mocks.js',
+      'vendor/angular-grid/build/ng-grid.js',
       'build/templates-app.js',
       'build/templates-common.js',
-      'vendor/angular-mocks/angular-mocks.js',
       
       'src/**/*.js',
       'src/**/*.coffee',

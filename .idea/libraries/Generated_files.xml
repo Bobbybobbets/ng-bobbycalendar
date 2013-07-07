@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/common/DateTime/Gregorian/GregorianDateTime.js" />
+        <item url="file://$PROJECT_DIR$/src/common/DateTime/Timetable/TimetableDateTime.js" />
+        <item url="file://$PROJECT_DIR$/src/common/DateTime/Gregorian/GregorianDateTime.spec.js" />
+        <item url="file://$PROJECT_DIR$/src/app/app.js" />
+        <item url="file://$PROJECT_DIR$/src/common/DateTime/AbstractDateTime.js" />
+        <item url="file://$PROJECT_DIR$/src/app/Timetable/Timetable.js" />
+        <item url="file://$PROJECT_DIR$/src/common/DateTime/IDateTime.js" />
+        <item url="file://$PROJECT_DIR$/src/common/DateTime/Timetable/TimetableDateTime.spec.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/common/Calendar/IDate.js" />
+      <root url="file://$PROJECT_DIR$/src/common/Calendar/IDate.js" />
+      <root url="file://$PROJECT_DIR$/src/common/Calendar/Date.js" />
+      <root url="file://$PROJECT_DIR$/src/common/Calendar/Timetable/TimetableCalendar.js" />
+      <root url="file://$PROJECT_DIR$/src/common/Calendar/Gregorian/GregorianCalendar.js" />
+      <root url="file://$PROJECT_DIR$/src/common/DateTime/ICalendar.js" />
+      <root url="file://$PROJECT_DIR$/src/common/Calendar/Timetable/TimetableCalendar.js" />
+      <root url="file://$PROJECT_DIR$/src/common/Calendar/Gregorian/GregorianCalendar.js" />
+      <root url="file://$PROJECT_DIR$/src/common/Calendar/ICalendar.js" />
+      <root url="file://$PROJECT_DIR$/src/common/DateTime/IDateTime.js" />
+      <root url="file://$PROJECT_DIR$/src/common/DateTime/Gregorian/GregorianDateTime.js" />
+      <root url="file://$PROJECT_DIR$/src/common/DateTime/Timetable/TimetableDateTime.js" />
+      <root url="file://$PROJECT_DIR$/src/common/DateTime/Gregorian/GregorianDateTime.spec.js" />
+      <root url="file://$PROJECT_DIR$/src/common/DateTime/AbstractDateTime.js" />
+      <root url="file://$PROJECT_DIR$/src/app/app.js" />
+      <root url="file://$PROJECT_DIR$/src/app/Timetable/Timetable.js" />
+      <root url="file://$PROJECT_DIR$/src/common/DateTime/IDateTime.js" />
+      <root url="file://$PROJECT_DIR$/src/common/DateTime/Timetable/TimetableDateTime.spec.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

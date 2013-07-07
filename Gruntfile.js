@@ -256,10 +256,10 @@ module.exports = function ( grunt ) {
      */
     jshint: {
       src: [ 
-        '<%= app_files.js %>'
+//        '<%= app_files.js %>'
       ],
       test: [
-        '<%= app_files.jsunit %>'
+//        '<%= app_files.jsunit %>'
       ],
       gruntfile: [
         'Gruntfile.js'
@@ -539,7 +539,7 @@ module.exports = function ( grunt ) {
    * The `build` task gets your app ready to run for development and testing.
    */
   grunt.registerTask( 'build', [
-    'clean', 'html2js', 'jshint', 'coffeelint', 'coffee','recess:build',
+    'clean', 'html2js', /*'jshint',*/ 'coffeelint', 'coffee','recess:build',
     'copy:build_assets', 'copy:build_appjs', 'copy:build_vendorjs',
     'index:build', 'karmaconfig', 'karma:continuous' 
   ]);
